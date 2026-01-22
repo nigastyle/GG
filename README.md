@@ -1,1 +1,2 @@
 # GG
+GG auto updater
